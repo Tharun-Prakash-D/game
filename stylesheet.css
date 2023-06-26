@@ -1,0 +1,233 @@
+body
+{
+    height:100vh;
+    width:100vw;
+    min-width:250px;
+    min-height:370px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    align-items: center;margin:0px;
+    background-color: antiquewhite;
+}
+.outer
+{
+    
+    width:200px;
+    height:350px;
+}
+
+.inner 
+{
+    width:200px;
+    height:200px;
+    background-image: url(/Img/game\ bg3.png);
+    background-size:200px 200px;
+    margin:0px auto;
+    position: relative;
+    color:white;
+}
+#out1,#out2,#out3,#out4,#out5
+{
+    height:40px;
+    width:40px;
+    display:inline;
+}
+#out1
+{
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+#out2
+{
+    position:absolute;
+    left:40px;
+    top:0px;
+}
+#out3
+{
+    position:absolute;
+    left:80px;
+    top:0px;
+}
+#out4
+{
+    position:absolute;
+    left:120px;
+    top:0px;
+}
+#out5
+{
+    position:absolute;
+    left:160px;
+    top:0px;
+}
+#out6,#out7,#out8,#out9,#out10
+{
+    height:40px;
+    width:40px;
+    display:inline;
+}
+#out6
+{
+    position:absolute;
+    left:0px;
+    top:40px;
+}
+#out7
+{
+    position:absolute;
+    left:40px;
+    top:40px;
+}
+#out8
+{
+    position:absolute;
+    left:80px;
+    top:40px;
+}
+#out9
+{
+    position:absolute;
+    left:120px;
+    top:40px;
+}
+#out10
+{
+    position:absolute;
+    left:160px;
+    top:40px;
+}
+#out11,#out12,#out13,#out14,#out15,#out16,#out17,#out18,#out19,#out20,#inp1,#inp2,#inp3,#inp4,#inp5
+{
+    height:40px;
+    width:40px;
+    display:inline;
+}
+#out11
+{
+    position:absolute;
+    left:0px;
+    top:80px;
+}
+#out12
+{
+    position:absolute;
+    left:40px;
+    top: 80px;
+}
+#out13
+{
+    position:absolute;
+    left:80px;
+    top:80px;
+    text-align: center;
+}
+#out14
+{
+    position:absolute;
+    left:120px;
+    top:80px;
+}
+#out15
+{
+    position:absolute;
+    left:160px;
+    top:80px;
+}
+#out16
+{
+    position:absolute;
+    left:0px;
+    top:120px;
+}
+#out17
+{
+    position:absolute;
+    left:40px;
+    top:120px;
+}
+#out18
+{
+    position:absolute;
+    left:80px;
+    top:120px;
+}
+#out19
+{
+    position:absolute;
+    left:120px;
+    top:120px;
+}
+#out20
+{
+    position:absolute;
+    left:160px;
+    top:120px;
+}
+#inp1
+{
+    position:absolute;
+    left:0px;
+    top:160px;
+}
+#inp2
+{
+    position:absolute;
+    left:40px;
+    top:160px;
+}
+#inp3
+{
+    position:absolute;
+    left:80px;
+    top:160px;
+}
+#inp4
+{
+    position:absolute;
+    left:120px;
+    top:160px;
+}
+#inp5
+{
+    position:absolute;
+    left:160px;
+    top:160px;
+}
+#start
+{
+    width:60px;
+    height:30px;
+    position:absolute;
+    left:70px;
+    top:250px;
+}
+#top1
+{
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   margin:0px;
+   width:fit-content;
+   height:fit-content;
+   margin-left:10px;
+}
+
+
+#top1,label,select
+{
+    display:inline-block;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+label
+{
+    margin-left:10px;
+}
+*
+{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#top
+{
+    border:1px solid black;
+}
