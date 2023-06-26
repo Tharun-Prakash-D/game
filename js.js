@@ -124,7 +124,7 @@ function change2()
 {
   if(array1[0]==1)
   {
-  document.getElementById('out1').style.backgroundImage="url('Car bg1.png')"
+  document.getElementById('out1').style.backgroundImage="url('car bg1.png')"
   document.getElementById('out1').style.backgroundSize="40px 40px"
   document.getElementById('out1').style.backgroundColor="transparent"
   }
@@ -135,7 +135,7 @@ function change2()
   }
   if(array1[1]==1)
   {
-    document.getElementById('out2').style.backgroundImage="url('Car bg1.png')"
+    document.getElementById('out2').style.backgroundImage="url('car bg1.png')"
     document.getElementById('out2').style.backgroundSize="40px 40px"
     document.getElementById('out2').style.backgroundColor="transparent"
   }
@@ -147,7 +147,7 @@ function change2()
   }
   if(array1[2]==1)
   {
-  document.getElementById('out3').style.backgroundImage="url('Car bg1.png')"
+  document.getElementById('out3').style.backgroundImage="url('car bg1.png')"
   document.getElementById('out3').style.backgroundSize="40px 40px"
   document.getElementById('out3').style.backgroundColor="transparent"
   }
@@ -158,7 +158,7 @@ function change2()
   }
   if(array1[3]==1)
   {
-  document.getElementById('out4').style.backgroundImage="url('Car bg1.png')"
+  document.getElementById('out4').style.backgroundImage="url('car bg1.png')"
   document.getElementById('out4').style.backgroundSize="40px 40px"
   document.getElementById('out4').style.backgroundColor="transparent"
   }
@@ -169,7 +169,7 @@ function change2()
   }
   if(array1[4]==1)
   {
-  document.getElementById('out5').style.backgroundImage="url('Car bg1.png')"
+  document.getElementById('out5').style.backgroundImage="url('car bg1.png')"
   document.getElementById('out5').style.backgroundSize="40px 40px"
   document.getElementById('out5').style.backgroundColor="transparent"
   }
@@ -183,7 +183,7 @@ function change3()
 {
   if(array2[0]==1)
   {
-  document.getElementById('out6').style.backgroundImage="url('Car bg1.png')"
+  document.getElementById('out6').style.backgroundImage="url('car bg1.png')"
   document.getElementById('out6').style.backgroundSize="40px 40px"
   document.getElementById('out6').style.backgroundColor="transparent"
   }
@@ -194,7 +194,7 @@ function change3()
   }
   if(array2[1]==1)
   {
-    document.getElementById('out7').style.backgroundImage="url('Car bg1.png')"
+    document.getElementById('out7').style.backgroundImage="url('car bg1.png')"
     document.getElementById('out7').style.backgroundSize="40px 40px"
     document.getElementById('out7').style.backgroundColor="transparent"
   }
@@ -206,7 +206,7 @@ function change3()
   }
   if(array2[2]==1)
   {
-  document.getElementById('out8').style.backgroundImage="url('Car bg1.png')"
+  document.getElementById('out8').style.backgroundImage="url('car bg1.png')"
   document.getElementById('out8').style.backgroundSize="40px 40px"
   document.getElementById('out8').style.backgroundColor="transparent"
   }
@@ -217,7 +217,7 @@ function change3()
   }
   if(array2[3]==1)
   {
-  document.getElementById('out9').style.backgroundImage="url('Car bg1.png')"
+  document.getElementById('out9').style.backgroundImage="url('car bg1.png')"
   document.getElementById('out9').style.backgroundSize="40px 40px"
   document.getElementById('out9').style.backgroundColor="transparent"
   }
@@ -228,7 +228,7 @@ function change3()
   }
   if(array2[4]==1)
   {
-  document.getElementById('out10').style.backgroundImage="url('Car bg1.png')"
+  document.getElementById('out10').style.backgroundImage="url('car bg1.png')"
   document.getElementById('out10').style.backgroundSize="40px 40px"
   document.getElementById('out10').style.backgroundColor="transparent"
   }
@@ -242,7 +242,7 @@ function change4()
 {
   if(array3[0]==1)
   {
-  document.getElementById('out11').style.backgroundImage="url('Car bg1.png')"
+  document.getElementById('out11').style.backgroundImage="url('car bg1.png')"
   document.getElementById('out11').style.backgroundSize="40px 40px"
   document.getElementById('out11').style.backgroundColor="transparent"
   }
@@ -253,7 +253,7 @@ function change4()
   }
   if(array3[1]==1)
   {
-    document.getElementById('out12').style.backgroundImage="url('Car bg1.png')"
+    document.getElementById('out12').style.backgroundImage="url('car bg1.png')"
     document.getElementById('out12').style.backgroundSize="40px 40px"
     document.getElementById('out12').style.backgroundColor="transparent"
   }
@@ -265,7 +265,7 @@ function change4()
   }
   if(array3[2]==1)
   {
-  document.getElementById('out13').style.backgroundImage="url('Car bg1.png')"
+  document.getElementById('out13').style.backgroundImage="url('car bg1.png')"
   document.getElementById('out13').style.backgroundSize="40px 40px"
   document.getElementById('out13').style.backgroundColor="transparent"
   }
@@ -276,7 +276,7 @@ function change4()
   }
   if(array3[3]==1)
   {
-  document.getElementById('out14').style.backgroundImage="url('Car bg1.png')"
+  document.getElementById('out14').style.backgroundImage="url('car bg1.png')"
   document.getElementById('out14').style.backgroundSize="40px 40px"
   document.getElementById('out14').style.backgroundColor="transparent"
   }
@@ -287,7 +287,7 @@ function change4()
   }
   if(array3[4]==1)
   {
-  document.getElementById('out15').style.backgroundImage="url('Car bg1.png')"
+  document.getElementById('out15').style.backgroundImage="url('car bg1.png')"
   document.getElementById('out15').style.backgroundSize="40px 40px"
   document.getElementById('out15').style.backgroundColor="transparent"
   }
@@ -301,7 +301,7 @@ function change5()
 {
   if(array4[0]==1)
   {
-  document.getElementById('out16').style.backgroundImage="url('Car bg1.png')"
+  document.getElementById('out16').style.backgroundImage="url('car bg1.png')"
   document.getElementById('out16').style.backgroundSize="40px 40px"
   document.getElementById('out16').style.backgroundColor="transparent"
   }
@@ -312,7 +312,7 @@ function change5()
   }
   if(array4[1]==1)
   {
-    document.getElementById('out17').style.backgroundImage="url('Car bg1.png')"
+    document.getElementById('out17').style.backgroundImage="url('car bg1.png')"
     document.getElementById('out17').style.backgroundSize="40px 40px"
     document.getElementById('out17').style.backgroundColor="transparent"
   }
@@ -324,7 +324,7 @@ function change5()
   }
   if(array4[2]==1)
   {
-  document.getElementById('out18').style.backgroundImage="url('Car bg1.png')"
+  document.getElementById('out18').style.backgroundImage="url('car bg1.png')"
   document.getElementById('out18').style.backgroundSize="40px 40px"
   document.getElementById('out18').style.backgroundColor="transparent"
   }
@@ -335,7 +335,7 @@ function change5()
   }
   if(array4[3]==1)
   {
-  document.getElementById('out19').style.backgroundImage="url('Car bg1.png')"
+  document.getElementById('out19').style.backgroundImage="url('car bg1.png')"
   document.getElementById('out19').style.backgroundSize="40px 40px"
   document.getElementById('out19').style.backgroundColor="transparent"
   }
@@ -346,7 +346,7 @@ function change5()
   }
   if(array4[4]==1)
   {
-  document.getElementById('out20').style.backgroundImage="url('Car bg1.png')"
+  document.getElementById('out20').style.backgroundImage="url('car bg1.png')"
   document.getElementById('out20').style.backgroundSize="40px 40px"
   document.getElementById('out20').style.backgroundColor="transparent"
   }
