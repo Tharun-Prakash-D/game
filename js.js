@@ -7,6 +7,16 @@ let righti2 = document.getElementById('inp5')
 let lefti2 = document.getElementById('inp2')
 let start = document.querySelector('button')
 start.addEventListener('click',startgame1)
+righti1.addEventListener('click',()=>{array5=[0,0,0,1,0]
+  change();})
+righti2.addEventListener('click',()=>{array5=[0,0,0,0,1]
+    change();})
+lefti2.addEventListener('click',()=>{array5=[0,1,0,0,0]
+    change();})
+lefti1.addEventListener('click',()=>{array5=[1,0,0,0,0]
+      change();})
+centeri1.addEventListener('click',()=>{array5=[0,0,1,0,0]
+  change();})
 let array1 =[0,0,0,0,0]
 let array2=[0,0,0,0,0]
 let array3=[0,0,0,0,0]
