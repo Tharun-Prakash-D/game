@@ -130,7 +130,7 @@ function change2()
   }
   else
   {
-    document.getElementById('out1').style.backgroundImage="none"
+  document.getElementById('out1').style.backgroundImage="none"
   document.getElementById('out1').style.backgroundColor='transparent'
   }
   if(array1[1]==1)
